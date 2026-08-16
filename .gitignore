@@ -1,0 +1,21 @@
+# Virtual Environment (libraries sandbox)
+.venv/
+venv/
+ENV/
+
+# Python Cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Raw Data (stored locally but not committed to GitHub)
+data/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local Editor Configurations
+.vscode/
+.idea/
+.DS_Store
